@@ -1,2 +1,2 @@
 # JavaJam
--Coffee Store webpage designed using HTML and CSS.
+-Coffee Store website designed using HTML and CSS.
